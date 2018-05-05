@@ -1,0 +1,38 @@
+body{
+		background-color: #ddd;
+	}
+	.panel-default{
+		padding: 10px 20px 20px 20px;
+		border-top: 3px #d9534f solid;
+	}
+	.putih{
+		color: #fff;
+	}
+	.huruf{
+		font-family: 'open sans';
+	}
+	.menu-icon {
+    width: 20px;
+    line-height: 1;
+	}
+	img {
+    vertical-align: middle;
+	border:0;
+	}
+	form{
+		margin-top: 30px;
+	}
+	.input-group{
+		margin-top: 10px;
+	}
+	.input-group-addon{
+		background-color: #fff;
+	}
+	button{
+		margin-top: 20px;
+	}
+	.btn{
+		padding: 6px 50px;
+		border-radius: 50px;
+		font-size: 13px;
+	}
